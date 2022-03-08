@@ -69,7 +69,6 @@ For South America show population in millions and GDP in billions both to 2 deci
 WHERE continent = 'South America'
 
 
-
 10.
 Show the name and per-capita GDP for those countries with a GDP of at least one trillion (1000000000000; that is 12 zeros). Round this value to the nearest 1000.
 Show per-capita GDP for the trillion dollar countries to the nearest $1000.
@@ -78,12 +77,10 @@ Show per-capita GDP for the trillion dollar countries to the nearest $1000.
 WHERE gdp > 1000000000000;
 
 
-
 11.
 Greece has capital Athens.
 Each of the strings 'Greece', and 'Athens' has 6 characters.
 Show the name and capital where the name and the capital have the same number of characters.
-
 
 > SELECT name, capital
   FROM world
