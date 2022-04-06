@@ -18,3 +18,5 @@ Happy Learning! :)
 5. SUM and COUNT
 
 6. The_JOIN_operation
+
+7. More JOIN operations
